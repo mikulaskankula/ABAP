@@ -20,3 +20,5 @@ write 'visual studio'.
 
 write 'eclipse12'.
 
+write 'skusam dalsi update z vpn pripojenia na dialku'.
+
